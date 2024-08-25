@@ -20,14 +20,13 @@ Backend Development
 
 The Backend section delves into the server-side of web applications, handling data storage, retrieval, and processing.
 
-    Introduction to Servers: Understand the role of servers in web development.
-    Database Systems: Learn about different database types (SQL, NoSQL).
-        SQL basics (SELECT, INSERT, UPDATE, DELETE).
-        NoSQL concepts (MongoDB, Firebase).
+    Introduction to Servers: Understand the architecture of a web application and the role of servers in web development.
+    Database Systems: Learn about different database types (NoSQL in our course).
+        NoSQL concepts (MongoDB).
     Server-Side Programming: Explore popular languages and frameworks.
         Node.js and Express.js.
-        Python and Django or Flask.
-        PHP and Laravel.
+    API Development: Create a CRUD API to create, read, update and delete an element in the database.
+        Using Mongoose.
     API Development: Create RESTful APIs for communication between frontend and backend.
         HTTP methods (GET, POST, PUT, DELETE).
         JSON data format.
@@ -35,16 +34,10 @@ The Backend section delves into the server-side of web applications, handling da
 
 Projects
 
-To solidify your understanding and apply your skills, we encourage you to work on the following projects:
+To solidify your understanding and apply your skills, we will work on the following projects:
 
-    Personal Website: Build a simple website showcasing your skills and projects.
-    To-Do List App: Create a web application to manage tasks.
-    E-commerce Store: Develop a basic online store with product listings and a shopping cart.
+    Blog web project : Create a blog web project for a better understanding of the CRUD operations.
+    To-Do List App: Create a web application to manage tasks. (In this case the data will be stored using MongoDB int his case)
 
-Additional Resources
-
-    Online Tutorials: Explore platforms like freeCodeCamp, Codecademy, and MDN Web Docs for in-depth tutorials.
-    Online Courses: Consider paid courses on platforms like Udemy or Coursera for structured learning.
-    Open-Source Projects: Contribute to open-source projects to gain real-world experience.
 
 Happy Coding!
