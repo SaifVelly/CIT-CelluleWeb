@@ -1,28 +1,36 @@
-# 🌐 Web Development Learning Repository
+# 🌐 Web Development Cell Repository
 
-Welcome to the **Web Development Learning Repository**! This repository is designed to provide a comprehensive guide for students aspiring to become skilled web developers. It's divided into two main sections: **Frontend** and **Backend**.
+Welcome to the **Web Development Cell Repository**! This repository is designed to provide a comprehensive guide for students aspiring to become skilled web developers. It's divided into two main sections: **Frontend** and **Backend**.
 
 ---
 
-## 🎨 Frontend Development
+## ⚛️ Frontend Development
 
-The Frontend section focuses on the client-side of web applications, responsible for the user interface and interaction.
+### 1. **Intro to the Web**
+   - [notion page](https://ubiquitous-period-0ea.notion.site/Intro-to-the-Web-116221cd7d1d803a9c62f4189d0dd7a7?pvs=4)
 
-### 1. **HTML**
-   - Learn the foundation of web structure with HTML.
-     - Basic structure, elements, attributes, and semantics.
-     - Examples of creating simple web pages.
+### 2. **HTML**
+   - [notion page](https://ubiquitous-period-0ea.notion.site/HTML-b151401a7ff045189932757881db5fed?pvs=4)
 
-### 2. **CSS**
-   - Master the art of styling web elements with CSS.
-     - Selectors, properties, values, and cascading rules.
-     - Creating responsive designs and theming.
+### 3. **CSS**
+   - [notion page](https://ubiquitous-period-0ea.notion.site/CSS-Basics-selectors-a10f4743e13d4253b9bc063c5795af83?pvs=4)
 
-### 3. **JavaScript**
-   - Explore the dynamic nature of the web with JavaScript.
-     - Variables, data types, operators, control flow.
-     - DOM manipulation, event handling, and asynchronous programming.
-     - Introduction to frameworks like **React** or **Vue.js**.
+### 4. **JavaScript**
+   - [notion page](https://ubiquitous-period-0ea.notion.site/JavaScript-09ea37608d1e4ab090da1988ea8a1065?pvs=4)
+
+### 5. **React JS**
+   - Coming soon
+
+---
+
+## 🛠️ Frontend Projects
+
+To solidify your understanding and apply your skills, we will work on the following projects:
+
+1. **Landing page using `HTML, CSS`**: [Live version of the final project](https://slihatim.github.io/Landing-page/).
+2. **Rock Paper Scissors app using `Javascript`**: [Live version of the final project](https://slihatim.github.io/Rock-paper-scissors)
+3. **Amazon E-commerce app using `Javascript`**: [Live version of the final project](https://javascript-amazon-project-zeta.vercel.app/)
+4. **Todo app with Local Storage using `React JS`**: [Live version of the final project](https://slihatim.github.io/Todo-app-with-localStorage/)
 
 ---
 
@@ -51,7 +59,7 @@ The Backend section delves into the server-side of web applications, handling da
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Backend Projects
 
 To solidify your understanding and apply your skills, we will work on the following projects:
 
