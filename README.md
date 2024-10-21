@@ -66,6 +66,7 @@ The Backend section delves into the server-side of web applications, handling da
 To solidify your understanding and apply your skills, we will work on the following projects:
 
 1. **Blog Web Project**: Create a blog web project for a better understanding of CRUD operations.
+      - [Check the project repo](https://github.com/SaifVelly/Blog-WebProject)
 2. **To-Do List App**: Create a web application to manage tasks. (Data will be stored using MongoDB in this case).
 
 ---
