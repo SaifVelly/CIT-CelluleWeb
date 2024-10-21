@@ -40,6 +40,8 @@ The Backend section delves into the server-side of web applications, handling da
 
 ### 1. **Introduction to Servers**
    - Understand the architecture of a web application and the role of servers in web development.
+   - [notion page](https://www.notion.so/CIT-Backend-Dev-29b47b5d5fdf403fbdedb79ce933f748)
+
 
 ### 2. **Database Systems**
    - Learn about different database types (NoSQL in our course).
